@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Bruno
+# Software developer and and college student.
 
-<!--
-**Bruno1084/Bruno1084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![monkey banner](assets/monkey-Gif.webp)
 
-Here are some ideas to get you started:
+## Socials
+<a href="https://www.linkedin.com/in/brunos0sa/">![LinkedIn](assets/LinkedIn.svg)</a>
+<a href="mailto:sosabruno3384@gmail.com">![Gmail](assets/Gmail.svg)</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technologies
+![Java](assets/Java.svg)
+![Javascript](assets/Javascript.svg)
+![Typescript](assets/Typescript.svg)
+![NextJs](assets/NextJs.svg)
+![NodeJs](assets/NodeJs.svg)
+![React](assets/React.svg)
+![MySQL](assets/MySQL.svg)
+![MUI](assets/MUI.svg)
+![TailwindCSS](assets/TailwindCSS.svg)
+![Bootstrap](assets/Bootstrap.svg)
+![ThreeJs](assets/ThreeJs.svg)
+![Vite](assets/Vite.svg)
+![HTML](assets/HTML5.svg)
+![CSS](assets/CSS.svg)
+![Git](assets/Git.svg)
