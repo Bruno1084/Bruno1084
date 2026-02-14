@@ -1,5 +1,5 @@
 # Hi 👋 I'm Bruno
-# Software developer and college student.
+# Software developer
 
 ![monkey banner](assets/monkey-Gif.webp)
 
